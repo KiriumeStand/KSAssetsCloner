@@ -1,6 +1,13 @@
 # KS Assets Cloner
 指定したアセットを参照関係を保持しながら複製するエディタ拡張
 
+> [!IMPORTANT]
+> このパッケージ(KS Assets Cloner(com.github.kiriumestand.ksassetscloner))は  
+> 以下のリポジトリ(KS Assets Cloner(com.github.k-stand.ksassetscloner))に移行しました。  
+> https://github.com/k-stand/KSAssetsCloner  
+> 新しいパッケージのインストールをお願いします。  
+> 以降このリポジトリはアーカイブとしてのみ残り、更新されません。  
+
 ## 概要
 指定したアセットを依存関係を維持したまま複製します。  
 フォルダを指定して一括で複製したり、一部は複製しない設定にすることもできます。
